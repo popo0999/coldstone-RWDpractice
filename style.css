@@ -3,6 +3,27 @@
 .round{
     border-radius: 50%;
 }
+.red{
+    color: #c8423f;
+}
+.c444{
+    color: #444;
+}
+.bold{
+    font-weight: bold;
+}
+.fz1{
+    font-size: 1rem;
+}
+.tac{
+    text-align: center;
+}
+.lh30{
+    line-height: 30px;
+}
+.bdr10{
+    border-radius: 10px;
+}
 
 /* --------------header----------------------- */
 
@@ -15,6 +36,8 @@
     font-weight: bold;
     margin-bottom: 10px;
 }
-.round{
+.menu{
+    background-color: #e3242b;
+    color: white;
     
 }
