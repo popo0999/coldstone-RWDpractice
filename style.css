@@ -24,6 +24,9 @@
 .bdr10{
     border-radius: 10px;
 }
+.mx380{
+    max-width: 380px;
+}
 
 /* --------------header----------------------- */
 
